@@ -1,1 +1,1 @@
-# kakeiboFaq
+# 毎日家計簿FAQ
