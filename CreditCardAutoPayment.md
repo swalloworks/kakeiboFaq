@@ -25,6 +25,6 @@
 また、カレンダー画面で支払日に自動生成される返済記録を事前に確認することができます。
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fSdb9R2NqG1laik9oYHP0356JjHfP_-_LgVSb3AkpThF5K-Ds7emrDyLqeVzOvcysrrEMsN-QRDN94dDoIaDlFYNt_8M6UXwHyUH1NNFasz9xFwELalFV5gsSsqMiKU1ffoZVcxkSQSRhE-G2HoE0=w798-h1724-no?authuser=0)
 
-#### 注意点
+#### 過去日は自動支払の対象外です。
 支払日が設定した日よりも前の場合は、その日の支払処理は自動で行われません。
 手動で振替レコードを登録するのが必要です。
