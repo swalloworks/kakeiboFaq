@@ -16,6 +16,7 @@
 
 
 ### FaceIDの行が表示されない場合は、iPhoneのFaceD設定をご確認ください。
-Face ID の設定を確認するには、「設定」>「Face ID とパスコード」の順に選択します。Face ID が設定されていて、毎日家計簿がオンになっているか確認してください。
+Face ID の設定を確認するには、「設定」>「Face ID とパスコード」の順に選択します。Face ID が設定されていて、毎日家計簿がオンになっているか確認してください。  
+
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3d_esBcEKUSwbagCoS3FDLYfc33lc6L_6TsXxL370NATiqbf4LgCpxjCwU5QVGeueqqgsOdJhlpgZ9VOCKGu3kGpemupJ5B7_Hxo_iqcqZL48ZDUd9IoP56lJvtvtkV_qHEsCjMIMun8Tn-iP09p5U=w658-h1422-no?authuser=0" alt="drawing" width="400"/>
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3dtrp3mEPilfJM2wKwBNW_hn4QHkLZidZMgEMNH5TeveC8B6dDsV13HuafBex14THwSKFEjPOXj2g2PHTIVBuCVTrs0RMTCpL6G4heLH4PRYmHOJWNUpg2jKWWmNLLo5czxYREdfo0_pB6tnrH4bOQ=w658-h1422-no?authuser=0" alt="drawing" width="400"/>
