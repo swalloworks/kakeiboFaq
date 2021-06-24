@@ -3,6 +3,8 @@
 ### 1. 同一Apple IDを持つ端末間で帳簿を同期する 
 ### 2. 家族や友人と帳簿を共有する
 
+
+
 ## ■ iCloud帳簿の設定方法
 ### 1. 帳簿の一覧画面を開きます
 *※カレンダー画面  → 左上の「帳簿」ボタンをタップ*  
@@ -12,6 +14,7 @@
 
 ### 2. ローカル帳簿をiCloud帳簿に変更
 <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/jp-cloudbook2.PNG" alt="list" width="330"/>
+
 
 
 ## ■ 帳簿の共有
@@ -31,6 +34,7 @@
 
 ### 5. 相手がリンクを開きますと、帳簿が共有されます。
 *<span style="color: red; font-weight: bold; ">注意）Lineなどで共有リンクを直接開くことはできないため、Safariにコピーして開く必要があります。</span>*
+
 
 
 ## ■ FAQ
